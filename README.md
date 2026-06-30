@@ -1,4 +1,4 @@
-# KiraaGhar.in — Room Rental Website for Sultanpur, UP
+# sultanpurrental.in — Room Rental Website for Sultanpur, UP
 
 A full-stack room rental platform for Sultanpur, Uttar Pradesh. Anyone can search for available rooms by area, price, room type, and furnishing. Landlords can post their own listings.
 
